@@ -1,4 +1,4 @@
-
+https://github.com/seudoe/seudoe/blob/main/README.md
 # Hello my Friend, *Seudoe* here
 
 ## Languages and Skills
@@ -6,9 +6,9 @@
 <a href="https://www.w3schools.com/cpp/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="height: 50px; width:auto;" ></a> &nbsp;&nbsp;
 <a href="https://www.java.com/en/"><img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" style="height: 50px; width:auto;"></a>  &nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" style="height: 50px; width:auto;"></a>  &nbsp;&nbsp;
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="53"/> </a>  &nbsp;&nbsp;
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a> &nbsp;&nbsp;
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a> &nbsp;&nbsp;
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="height: 50px; width:auto;" /> </a>  &nbsp;&nbsp;
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="height: 50px; width:auto;" /> </a> &nbsp;&nbsp;
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="height: 50px; width:auto;" /> </a> &nbsp;&nbsp;
 
 
 <!-- 
