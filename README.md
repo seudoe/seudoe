@@ -1,4 +1,4 @@
-https://github.com/seudoe/seudoe/blob/main/README.md
+<!-- https://github.com/seudoe/seudoe/blob/main/README.md -->
 # Hello my Friend, *Seudoe* here
 
 ## Languages and Skills
