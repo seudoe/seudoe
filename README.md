@@ -9,7 +9,7 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="height: 50px; width:auto;"/></a>  &nbsp;&nbsp;
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="height: 50px; width:auto;"/></a> &nbsp;&nbsp;
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="height: 50px; width:auto;"/></a> &nbsp;&nbsp;
-
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://images.icon-icons.com/2389/PNG/512/next_js_logo_icon_145038.png" style="height: 50px; width:auto;"/></a> 
 
 <!-- 
 <p align="left"> 
