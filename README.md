@@ -20,13 +20,10 @@ I build full-stack applications and I'm currently going deeper into **LLM applic
 
 ---
 
-## About Me
-
-I'm an IT student and developer interested in building useful software across the full stack.
-
-My current focus is moving from traditional web development into **AI application development** — understanding how LLMs, tools, agents, RAG, and MCP fit together to build software that can actually interact with real systems.
-
-I also enjoy hackathons and collaborative technical work, especially when it involves taking an idea from concept to a working product.
+## Teck Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,react,nextjs,nodejs,express,postgres,mongodb,supabase,tailwind,docker,git,github&perline=9" />
+</p>
 
 ---
 
