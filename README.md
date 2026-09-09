@@ -2,79 +2,125 @@
 
 # Hello my Friend, *Seudoe* here
 
-### Full-Stack Developer • AI / LLM Enthusiast • Builder
+### Full-Stack Developer · AI / LLM Enthusiast · Builder
 
-I like turning ideas into usable software — from full-stack web applications to AI-powered systems.
-
-Currently exploring **LangChain, LangGraph, MCP, RAG, and AI agent architectures**, while continuing to build with the modern TypeScript/Node.js ecosystem.
+I build full-stack applications and I'm currently going deeper into **LLM applications, agents, RAG, LangChain, LangGraph and MCP**.
 
 <p>
-  <a href="https://github.com/seudoe">GitHub</a> •
-  <a href="https://www.linkedin.com/">LinkedIn</a>
+  <a href="https://github.com/seudoe">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <!-- Add your LinkedIn URL here when you want to include it -->
 </p>
 
 </div>
 
 ---
 
-## What I'm into
+## About Me
 
-- 🧩 **Full-stack development** — React, Next.js, Node.js, TypeScript
-- 🤖 **AI application development** — LLMs, LangChain, LangGraph, MCP, RAG
-- 🗄️ **Backend & data** — PostgreSQL, MongoDB, Supabase
-- ⚙️ **Developer tooling** — Git, Docker, Postman, APIs
-- 🧠 **Problem solving** — DSA, competitive programming, building things from scratch
+I'm an IT student and developer interested in building useful software across the full stack.
 
-## Tech Stack
+My current focus is moving from traditional web development into **AI application development** — understanding how LLMs, tools, agents, RAG, and MCP fit together to build software that can actually interact with real systems.
+
+I also enjoy hackathons and collaborative technical work, especially when it involves taking an idea from concept to a working product.
+
+---
+
+## Skills
+
+```json
+{
+  "languages": [
+    "C",
+    "C++",
+    "Java",
+    "Python",
+    "JavaScript",
+    "TypeScript"
+  ],
+  "frontend": [
+    "HTML",
+    "CSS",
+    "React",
+    "Next.js",
+    "Tailwind CSS"
+  ],
+  "backend": [
+    "Node.js",
+    "Express.js",
+    "REST APIs"
+  ],
+  "databases": [
+    "PostgreSQL",
+    "MongoDB",
+    "Supabase"
+  ],
+  "ai_ml": [
+    "NumPy",
+    "Pandas",
+    "scikit-learn",
+    "LangChain",
+    "LangGraph",
+    "MCP"
+  ],
+  "tools": [
+    "Git",
+    "GitHub",
+    "Docker",
+    "Postman",
+    "Jira"
+  ]
+}
+```
+
+---
+
+## GitHub
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,react,nextjs,nodejs,express,postgres,mongodb,supabase,tailwind,docker,git,github&perline=9" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=seudoe&show_icons=true&hide_border=true&theme=transparent"
+    height="180"
+    alt="Seudoe's GitHub statistics"
+  />
+  <img
+    src="https://streak-stats.demolab.com/?user=seudoe&hide_border=true&theme=transparent"
+    height="180"
+    alt="Seudoe's GitHub streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=seudoe&theme=github-compact&hide_border=true&custom_title=Contribution%20Graph"
+    alt="Seudoe's GitHub contribution graph"
+  />
 </p>
 
 ---
 
-## GitHub Activity
+## Highlights
 
-<p align="center">
+### Hackathons
+
+- **1st Runner Up** — AlgoVerse, Bharati Vidyapeeth College of Engineering
+- **2nd Runner Up** — Tech-a-thon, MCC
+
+### Currently Exploring
+
+- AI agents and tool-calling workflows
+- LangChain and LangGraph
+- Model Context Protocol (MCP)
+- Retrieval-Augmented Generation (RAG)
+- Building AI features into full-stack applications
+
+---
+
+## Let's Connect
+
+<p>
   <a href="https://github.com/seudoe">
-    <img src="https://github-stats-extended.vercel.app/api?username=seudoe&show_icons=true&hide_border=true" height="180" />
-  </a>
-  <a href="https://github.com/seudoe">
-    <img src="https://streak-stats.demolab.com/?user=seudoe&hide_border=true" height="180" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seudoe&hide_border=true" />
-</p>
-
----
-
-## A few things I've done
-
-🏆 **Hackathons**
-- 🥈 1st Runner Up — AlgoVerse, Bharati Vidyapeeth College of Engineering
-- 🥉 2nd Runner Up — Tech-a-thon, MCC
-
-🎯 **Currently**
-- Building full-stack applications with **Next.js + TypeScript + PostgreSQL**
-- Going deeper into **LLM applications, agents, RAG and MCP**
-- Learning how to design AI systems that can actually interact with software and data
-
----
-
-## Beyond the Code
-
-I also enjoy working on the **creative and collaborative side of software** — technical events, student communities, and turning technical ideas into something people can actually use.
-
----
-
-<div align="center">
-
-### Let's build something interesting.
-
-<a href="https://github.com/seudoe">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
