@@ -9,8 +9,7 @@ I build full-stack applications and I'm currently going deeper into **LLM applic
 <p>
   <a href="https://github.com/seudoe">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/md-asif-sh">
+  </a> <a href="https://linkedin.com/in/md-asif-sh">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <!-- Add your LinkedIn URL here when you want to include it -->
@@ -31,12 +30,12 @@ I build full-stack applications and I'm currently going deeper into **LLM applic
 
 ```typescript
 seudoe_skills = {
-  languages: , "C", "C++", "Java", "Python", "JavaScript", "TypeScript" ],
-  frontend: , "HTML", "CSS", "React", "Next.js", "Tailwind CSS" ],
-  backend: , "Node.js", "Express.js", "REST APIs" ],
-  databases: , "PostgreSQL", "MongoDB", "Supabase" ],
-  ai_ml: , "NumPy", "Pandas", "scikit-learn", "LangChain", "LangGraph", "MCP" ],
-  tools: , "Git", "GitHub", "Docker", "Postman", "Jira" ]
+  languages: [ "C", "C++", "Java", "Python", "JavaScript", "TypeScript" ],
+  frontend: [ "HTML", "CSS", "React", "Next.js", "Tailwind CSS" ],
+  backend: [ "Node.js", "Express.js", "REST APIs" ],
+  databases: [ "PostgreSQL", "MongoDB", "Supabase" ],
+  ai_ml: [ "NumPy", "Pandas", "scikit-learn", "LangChain", "LangGraph", "MCP" ],
+  tools: [ "Git", "GitHub", "Docker", "Postman", "Jira" ]
 }
 ```
 
