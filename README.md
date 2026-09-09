@@ -1,62 +1,80 @@
-<!-- https://github.com/seudoe/seudoe/blob/main/README.md -->
+<div align="center">
+
 # Hello my Friend, *Seudoe* here
 
-## Languages and Skills
-<a href="https://www.cprogramming.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" style="height: 50px; width:auto;"></a>&nbsp;&nbsp;
-<a href="https://www.w3schools.com/cpp/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="height: 50px; width:auto;" ></a> &nbsp;&nbsp;
-<a href="https://www.java.com/en/"><img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" style="height: 50px; width:auto;"></a>  &nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" style="height: 50px; width:auto;"></a>  &nbsp;&nbsp;
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="height: 50px; width:auto;"/></a>  &nbsp;&nbsp;
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="height: 50px; width:auto;"/></a> &nbsp;&nbsp;
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="height: 50px; width:auto;"/></a> &nbsp;&nbsp;
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://images.icon-icons.com/2389/PNG/512/next_js_logo_icon_145038.png" style="height: 50px; width:auto;"/></a> 
+### Full-Stack Developer • AI / LLM Enthusiast • Builder
 
-<!-- 
-<p align="left"> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+I like turning ideas into usable software — from full-stack web applications to AI-powered systems.
 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+Currently exploring **LangChain, LangGraph, MCP, RAG, and AI agent architectures**, while continuing to build with the modern TypeScript/Node.js ecosystem.
 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<p>
+  <a href="https://github.com/seudoe">GitHub</a> •
+  <a href="https://www.linkedin.com/">LinkedIn</a>
+</p>
 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+</div>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+---
 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+## What I'm into
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+- 🧩 **Full-stack development** — React, Next.js, Node.js, TypeScript
+- 🤖 **AI application development** — LLMs, LangChain, LangGraph, MCP, RAG
+- 🗄️ **Backend & data** — PostgreSQL, MongoDB, Supabase
+- ⚙️ **Developer tooling** — Git, Docker, Postman, APIs
+- 🧠 **Problem solving** — DSA, competitive programming, building things from scratch
 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+## Tech Stack
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,react,nextjs,nodejs,express,postgres,mongodb,supabase,tailwind,docker,git,github&perline=9" />
+</p>
 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+---
 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
- -->
+## GitHub Activity
 
-<!--
-**seudoe/seudoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/seudoe">
+    <img src="https://github-stats-extended.vercel.app/api?username=seudoe&show_icons=true&hide_border=true" height="180" />
+  </a>
+  <a href="https://github.com/seudoe">
+    <img src="https://streak-stats.demolab.com/?user=seudoe&hide_border=true" height="180" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seudoe&hide_border=true" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## A few things I've done
+
+🏆 **Hackathons**
+- 🥈 1st Runner Up — AlgoVerse, Bharati Vidyapeeth College of Engineering
+- 🥉 2nd Runner Up — Tech-a-thon, MCC
+
+🎯 **Currently**
+- Building full-stack applications with **Next.js + TypeScript + PostgreSQL**
+- Going deeper into **LLM applications, agents, RAG and MCP**
+- Learning how to design AI systems that can actually interact with software and data
+
+---
+
+## Beyond the Code
+
+I also enjoy working on the **creative and collaborative side of software** — technical events, student communities, and turning technical ideas into something people can actually use.
+
+---
+
+<div align="center">
+
+### Let's build something interesting.
+
+<a href="https://github.com/seudoe">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
