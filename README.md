@@ -44,9 +44,11 @@ seudoe_skills = {
 ## GitHub
 
 <p align="center">
+  
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=seudoe&show_icons=true&theme=nord)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=seudoe&theme=nord)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=seudoe&layout=compact&theme=nord)
+
 </p>
 
 ---
