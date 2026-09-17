@@ -44,23 +44,9 @@ seudoe_skills = {
 ## GitHub
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=seudoe&show_icons=true&hide_border=true&theme=transparent"
-    height="180"
-    alt="Seudoe's GitHub statistics"
-  />
-  <img
-    src="https://streak-stats.demolab.com/?user=seudoe&hide_border=true&theme=transparent"
-    height="180"
-    alt="Seudoe's GitHub streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=seudoe&theme=github-compact&hide_border=true&custom_title=Contribution%20Graph"
-    alt="Seudoe's GitHub contribution graph"
-  />
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=seudoe&show_icons=true&theme=nord)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=seudoe&theme=nord)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=seudoe&layout=compact&theme=nord)
 </p>
 
 ---
