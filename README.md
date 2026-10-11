@@ -2,7 +2,8 @@
   <!-- <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=E0DFF1&center=true&vCenter=true&width=650&height=60&lines=Greetings%2C+wanderer!+I'm+seudoe;Full-Stack+Developer+·+AI+Engineer;Building+Developer+Tools+&+Multi-Agent+Systems" alt="Typing SVG" />
   </a> -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&duration=3000&pause=1000&color=00FFD2&vCenter=true&width=500&lines=Hello+my+Friend!!+Seudoe+Here)](https://git.io/typing-svg)
+  <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&duration=3000&pause=1000&color=00FFD2&vCenter=true&width=500&lines=Hello+my+Friend!!+Seudoe+Here)](https://git.io/typing-svg) -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&duration=3000&pause=1000&color=00FFD2&vCenter=true&width=500&lines=Hello+my+Friend!!+Seudoe+Here" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
